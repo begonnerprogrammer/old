@@ -40,7 +40,7 @@ window.scrollTo({
           autoStart:true,
           loop:true,
           delay:50,
-          strings:["Hello! my name is Usman.","A FULLSTACK-DEVELOPER."]
+          strings:["Hello! my name is Usman.","A MERNSTACK-DEVELOPER."]
         }
         }
         />
